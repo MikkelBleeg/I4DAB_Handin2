@@ -1,0 +1,9 @@
+C:\Users\Mikkel\Desktop\AU\4. Semester\GIT\I4DAB_Handin2\Personkartotek\PersonkartotekDB\bin\Debug\PersonkartotekDB.dacpac
+C:\Users\Mikkel\Desktop\AU\4. Semester\GIT\I4DAB_Handin2\Personkartotek\PersonkartotekDB\bin\Debug\PersonkartotekDB.dll
+C:\Users\Mikkel\Desktop\AU\4. Semester\GIT\I4DAB_Handin2\Personkartotek\PersonkartotekDB\bin\Debug\PersonkartotekDB.pdb
+C:\Users\Mikkel\Desktop\AU\4. Semester\GIT\I4DAB_Handin2\Personkartotek\PersonkartotekDB\obj\Debug\Model.xml
+C:\Users\Mikkel\Desktop\AU\4. Semester\GIT\I4DAB_Handin2\Personkartotek\PersonkartotekDB\obj\Debug\refactor.xml
+C:\Users\Mikkel\Desktop\AU\4. Semester\GIT\I4DAB_Handin2\Personkartotek\PersonkartotekDB\obj\Debug\postdeploy.sql
+C:\Users\Mikkel\Desktop\AU\4. Semester\GIT\I4DAB_Handin2\Personkartotek\PersonkartotekDB\obj\Debug\predeploy.sql
+C:\Users\Mikkel\Desktop\AU\4. Semester\GIT\I4DAB_Handin2\Personkartotek\PersonkartotekDB\obj\Debug\PersonkartotekDB.dll
+C:\Users\Mikkel\Desktop\AU\4. Semester\GIT\I4DAB_Handin2\Personkartotek\PersonkartotekDB\obj\Debug\PersonkartotekDB.pdb

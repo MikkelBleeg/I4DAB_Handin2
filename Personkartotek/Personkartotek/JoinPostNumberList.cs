@@ -42,7 +42,7 @@ namespace Personkartotek
         }
         public static void printList()
         {
-            Console.WriteLine("\nPrinting Join Post Number List");
+            Console.WriteLine("\nPrinting Join Post NUmber List");
             foreach (var VARIABLE in _postList)
             {
                 Console.WriteLine(VARIABLE.Adress.VejNavnOgNummer + " " + VARIABLE.PostNumber.Postnumber + " " + VARIABLE.PostNumber.City);
